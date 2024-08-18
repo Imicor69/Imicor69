@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Imicor69
-- I'm a french student and I like to devlop a lot of think like web page, python game and
--  some other project like minecraft mode and everythink like that.
--  so if you need help you can contact me 
+- I'm a french independent developer.
+- I learned everything by my self and I'm starting my new company Dev-me 
+
